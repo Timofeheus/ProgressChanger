@@ -11,6 +11,8 @@ To prevent the "Maximum value for Progress Bar from 0 to 100" error, all attempt
 
 ![Progress<0](https://c.radikal.ru/c39/1807/be/82bf296f244e.png) ![Progress>100](https://b.radikal.ru/b29/1807/23/d024cd982037.png)
 
+(ProgressChanger was created in Visual Studio 2008, because newer versions do not support development under Windows CE 6.0)
+
 ## Rus ReadMe
 Мини программа под навигатор на Windows СЕ 6.0. Задумка очень проста - при помощи 6 кнопок управлять ползунком "загрузки" (Прогресс Бар). Сделано всё за ~3 часа, 30 июня, перед первым июля.
 Также программа спокойно работает и на обычном компьютере (не знаю почему :) ).
@@ -21,3 +23,5 @@ To prevent the "Maximum value for Progress Bar from 0 to 100" error, all attempt
 Чтобы предотрвратить ошибку "максимальное значение для Progress Bar от 0 до 100" все попытки прибавить/убавить значение Progress Bar были обёрнуты в "Try/Catch".
 
 ![Прогресс<0](https://c.radikal.ru/c39/1807/be/82bf296f244e.png) ![Прогресс>100](https://b.radikal.ru/b29/1807/23/d024cd982037.png)
+
+(ProgressChanger был создан в Visual Studio 2008, т.к. более новые версии не поддерживают разработку под Windows CE 6.0)
