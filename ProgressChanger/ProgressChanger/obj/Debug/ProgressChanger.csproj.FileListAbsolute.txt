@@ -1,0 +1,8 @@
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\bin\Debug\ProgressChanger.exe
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\bin\Debug\ProgressChanger.pdb
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\obj\Debug\ProgressChanger.Form1.resources
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\obj\Debug\ProgressChanger.Properties.Resources.resources
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\obj\Debug\ProgressChanger.csproj.GenerateResource.Cache
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\obj\Debug\ProgressChanger.exe
+C:\Users\Timoshka-WIN10\Documents\Visual Studio 2008\Projects\ProgressChanger\ProgressChanger\obj\Debug\ProgressChanger.pdb
